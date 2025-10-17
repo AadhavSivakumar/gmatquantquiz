@@ -1,0 +1,5 @@
+{
+  "name": "GMAT Quant Quiz",
+  "description": "An interactive web application to practice GMAT quantitative reasoning questions. Users can filter questions by type and track their score.",
+  "requestFramePermissions": []
+}
